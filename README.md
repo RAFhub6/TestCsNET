@@ -5,4 +5,4 @@ preview :
 
 
 
-![image info](preview.png)
+(preview.png)
