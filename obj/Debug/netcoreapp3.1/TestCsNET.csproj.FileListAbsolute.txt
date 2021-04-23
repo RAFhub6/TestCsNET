@@ -1,0 +1,16 @@
+C:\Users\61449\source\repos\TestCsNET\TestCsNET\bin\Debug\netcoreapp3.1\TestCsNET.exe
+C:\Users\61449\source\repos\TestCsNET\TestCsNET\bin\Debug\netcoreapp3.1\TestCsNET.deps.json
+C:\Users\61449\source\repos\TestCsNET\TestCsNET\bin\Debug\netcoreapp3.1\TestCsNET.runtimeconfig.json
+C:\Users\61449\source\repos\TestCsNET\TestCsNET\bin\Debug\netcoreapp3.1\TestCsNET.runtimeconfig.dev.json
+C:\Users\61449\source\repos\TestCsNET\TestCsNET\bin\Debug\netcoreapp3.1\TestCsNET.dll
+C:\Users\61449\source\repos\TestCsNET\TestCsNET\bin\Debug\netcoreapp3.1\TestCsNET.pdb
+C:\Users\61449\source\repos\TestCsNET\TestCsNET\obj\Debug\netcoreapp3.1\TestCsNET.csprojAssemblyReference.cache
+C:\Users\61449\source\repos\TestCsNET\TestCsNET\obj\Debug\netcoreapp3.1\TestCsNET.Form1.resources
+C:\Users\61449\source\repos\TestCsNET\TestCsNET\obj\Debug\netcoreapp3.1\TestCsNET.csproj.GenerateResource.cache
+C:\Users\61449\source\repos\TestCsNET\TestCsNET\obj\Debug\netcoreapp3.1\TestCsNET.AssemblyInfoInputs.cache
+C:\Users\61449\source\repos\TestCsNET\TestCsNET\obj\Debug\netcoreapp3.1\TestCsNET.AssemblyInfo.cs
+C:\Users\61449\source\repos\TestCsNET\TestCsNET\obj\Debug\netcoreapp3.1\TestCsNET.csproj.CoreCompileInputs.cache
+C:\Users\61449\source\repos\TestCsNET\TestCsNET\obj\Debug\netcoreapp3.1\TestCsNET.dll
+C:\Users\61449\source\repos\TestCsNET\TestCsNET\obj\Debug\netcoreapp3.1\TestCsNET.pdb
+C:\Users\61449\source\repos\TestCsNET\TestCsNET\obj\Debug\netcoreapp3.1\TestCsNET.genruntimeconfig.cache
+C:\Users\61449\source\repos\TestCsNET\TestCsNET\obj\Debug\netcoreapp3.1\TestCsNET.Properties.Resources.resources

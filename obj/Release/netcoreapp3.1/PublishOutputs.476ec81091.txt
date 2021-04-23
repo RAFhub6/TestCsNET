@@ -1,0 +1,5 @@
+C:\Users\61449\source\repos\TestCsNET\TestCsNET\bin\publish\TestCsNET.exe
+C:\Users\61449\source\repos\TestCsNET\TestCsNET\bin\publish\TestCsNET.dll
+C:\Users\61449\source\repos\TestCsNET\TestCsNET\bin\publish\TestCsNET.deps.json
+C:\Users\61449\source\repos\TestCsNET\TestCsNET\bin\publish\TestCsNET.runtimeconfig.json
+C:\Users\61449\source\repos\TestCsNET\TestCsNET\bin\publish\TestCsNET.pdb
